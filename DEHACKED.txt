@@ -1,0 +1,28 @@
+Thing 80 (Wall Torch)
+Height = 2686976
+Bits = SOLID + NOGRAVITY
+
+Thing 84 (Office Chair)
+Height = 2686976
+
+Thing 86 (Burned Tree)
+Height = 5242880
+
+Thing 87 (Suit of Armor)
+Height = 5242880
+
+Thing 89 (Smoke)
+Width = 0
+Height = 0
+Bits = SOLID + TRANSLUCENT
+
+Thing 91 (Snowy Evergreen)
+Height = 8388608
+
+Thing 127 (Large Tree)
+Height = 12386304
+
+[Strings]
+gotplasma = YOU GOT THE TOASTER!
+OB_MPPLASMARIFLE = %o WAS FRIED BY %k'S TOASTER
+OB_CRUSH = %o was ground up...

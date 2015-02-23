@@ -1,0 +1,42 @@
+warp flat FWATER1
+warp flat FWATER2
+warp flat FWATER3
+warp flat FWATER4
+warp flat LAVA1
+warp flat LAVA2
+warp flat LAVA3
+warp flat LAVA4
+warp flat SFLR6_1
+
+flat fan1
+pic 1 tics 1
+pic 2 tics 1
+pic 3 tics 1
+pic 4 tics 1
+
+flat dwater1
+pic 1 tics 10
+pic 2 tics 10
+pic 3 tics 10
+pic 4 tics 10
+warp flat FWATER1
+warp flat FWATER2
+warp flat FWATER3
+warp flat FWATER4
+warp flat LAVA1
+warp flat LAVA2
+warp flat LAVA3
+warp flat LAVA4
+warp flat SFLR6_1
+
+flat fan1
+pic 1 tics 1
+pic 2 tics 1
+pic 3 tics 1
+pic 4 tics 1
+
+flat dwater1
+pic 1 tics 10
+pic 2 tics 10
+pic 3 tics 10
+pic 4 tics 10

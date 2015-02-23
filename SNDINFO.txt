@@ -1,0 +1,34 @@
+menu/cursor			dstink
+menu/change			dsmall
+menu/choose			dsitmbk
+
+world/thunder THNDR1
+amb3 amb3
+swamp1 swamp1
+world/watersplash		dssplash
+world/sludgegloop		dsploosh
+world/lavasizzle		dslvsiz
+world/drip			dsdrip
+world/hotsiz			dshtsiz
+
+$AMBIENT 1 swamp1 POINT CONTINUOUS 10.0 10.0 1.0
+$AMBIENT 2 amb2 POINT CONTINUOUS 20.0 35.0 1.0
+$AMBIENT 3 amb3 POINT CONTINUOUS 20.0 35.0 1.0
+$AMBIENT 4 dswriver POINT CONTINUOUS 10.0 10.0 1.0
+menu/cursor			dstink
+menu/change			dsmall
+menu/choose			dsitmbk
+
+world/thunder THNDR1
+amb3 amb3
+swamp1 swamp1
+world/watersplash		dssplash
+world/sludgegloop		dsploosh
+world/lavasizzle		dslvsiz
+world/drip			dsdrip
+world/hotsiz			dshtsiz
+
+$AMBIENT 1 swamp1 POINT CONTINUOUS 10.0 10.0 1.0
+$AMBIENT 2 amb2 POINT CONTINUOUS 20.0 35.0 1.0
+$AMBIENT 3 amb3 POINT CONTINUOUS 20.0 35.0 1.0
+$AMBIENT 4 dswriver POINT CONTINUOUS 10.0 10.0 1.0

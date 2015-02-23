@@ -1,0 +1,99 @@
+map MAP01 "Crysalis"
+levelnum 1
+sky1 DGSKY 0
+music d_city1
+next map02
+
+map MAP02 "The Salt Mines"
+levelnum 2
+sky1 sky1 0.05
+music d_runnin
+next map03
+fade "21 12 07"
+
+map map03 "Swamp Stone"
+levelnum 3
+sky1 LGSKY 0
+music d_shawn
+next map04
+evenlighting
+
+map MAP04 "Urban Assault"
+levelnum 4
+sky1 ORNGSKY 0
+music ironfist
+next map05
+forcenoskystretch
+
+map MAP05 "Forest Recluse"
+levelnum 5
+sky1 STARS 0.03
+music d_romero
+next map06
+lightning
+evenlighting
+forcenoskystretch
+
+MAP MAP06 "Fallen Basin"
+levelnum 6
+sky1 STARS 0
+music d_doom
+next map07
+
+map MAP07 "Charred Earth"
+levelnum 7
+next MAP08
+sky1 stars 0
+music grind
+forcenoskystretch
+
+map MAP08 "Asylum"
+levelnum 8
+sky1 dgsky 0
+next map09
+music d_the_da
+
+map MAP09 "Benedict"
+levelnum 9
+next map10
+sky1 elder 0
+music D_bene
+forcenoskystretch
+
+map MAP10 "Gusty Valley"
+levelnum 10
+next map11
+sky1 elder 0.5
+music d_ddtbl2
+forcenoskystretch
+
+map MAP11 "Fiery Disadvantage"
+levelnum 11
+next map12
+sky1 LGSKY 0.5
+music D_DDTBLU
+
+map MAP12 "Forest of Ash"
+levelnum 12
+next map13
+sky1 DGSKY 0
+music D_IN_CIT
+forcenoskystretch
+
+map MAP13 "Techno Rivers"
+levelnum 13
+next map14
+sky1 ORNGSKY 0
+music d_stalks
+
+map MAP14 "Xenophobic"
+levelnum 14
+sky1 darkness 0.0
+music D_COUNTD
+next map15
+
+map MAP15 "Isle Keep"
+levelnum 15
+sky1 lgsky 1
+music d_conq
+next map01
