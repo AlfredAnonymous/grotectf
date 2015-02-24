@@ -1,0 +1,8 @@
+*.backup*
+maps/*.dbs
+maps/*.backup*
+maps/*.bak
+*.pk3
+*.bak
+*.dbs
+Thumbs.db
