@@ -13,6 +13,26 @@ maps
 		
 		resources
 		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\Work\\doomStuff\\Other\\wads\\grotectfr.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			
+			resource1
+			{
+				type = 2;
+				location = "E:\\Work\\doomStuff\\grotectf\\grotectf.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
 		}
 		
 		defaulttoptexture = "PADTING";
@@ -26,7 +46,7 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			backsource = 0;
-			gridsize = 32;
+			gridsize = 1;
 		}
 		
 		overridefloortexture = false;
