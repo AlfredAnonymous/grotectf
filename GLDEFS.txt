@@ -1,0 +1,21 @@
+pulselight HEALTHPOTION
+{
+    color 0.5 1.0 0.0
+    size 16
+    secondarySize 18
+    interval 2.0
+}
+
+object HealthBonus
+{
+    frame BON1 { light BLUEITEM }
+}
+
+pulselight ARMORBONUS
+{
+    color 0.0 0.6 0.0
+    size 14
+    secondarySize 16
+    interval 1.0
+	//dontlightself 1
+}

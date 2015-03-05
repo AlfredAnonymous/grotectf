@@ -63,9 +63,8 @@ forcenoskystretch
 map MAP10 "Gusty Valley"
 levelnum 10
 next map11
-sky1 elder 0.5
+sky1 elder 0
 music d_ddtbl2
-forcenoskystretch
 
 map MAP11 "Fiery Disadvantage"
 levelnum 11
