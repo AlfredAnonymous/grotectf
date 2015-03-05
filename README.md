@@ -1,4 +1,4 @@
-![Grotesque CTF](https://raw.githubusercontent.com/AlfredAnonymous/grotectf/master/graphics/M_DOOM.png)
+![Grotesque CTF](https://raw.githubusercontent.com/AlfredAnonymous/grotectf/master/graphics/MDOOMZ.png)
 
 ---
 
