@@ -79,7 +79,7 @@ sky1 DGSKY 0
 music D_IN_CIT
 forcenoskystretch
 
-map MAP13 "Techno Rivers"
+map MAP13 "LAZURZZZZZZ"
 levelnum 13
 next map14
 sky1 ORNGSKY 0
@@ -88,6 +88,7 @@ music d_stalks
 map MAP14 "Xenophobic"
 levelnum 14
 sky1 darkness 0.0
+sky2 stars 0.0
 music D_COUNTD
 next map15
 
@@ -95,4 +96,10 @@ map MAP15 "Isle Keep"
 levelnum 15
 sky1 lgsky 1
 music d_conq
+next map16
+
+map MAP16 "Warehouse H-8"
+levelnum 16
+sky1 stars 0.0
+music testtube
 next map01
