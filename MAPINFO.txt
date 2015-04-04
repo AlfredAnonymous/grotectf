@@ -14,20 +14,20 @@ fade "1C 0F 06"
 map map03 "Swamp Stone"
 levelnum 3
 sky1 LGSKY 0
-music d_shawn
+music SH4_MR
 next map04
 evenlighting
 
 map MAP04 "Urban Assault"
 levelnum 4
 sky1 ORNGSKY 0
-music ironfist
+music mrd_nfev
 next map05
 forcenoskystretch
 
 map MAP05 "Forest Recluse"
 levelnum 5
-sky1 STARS 0.03
+sky1 STARS 0.0
 music d_romero
 next map06
 lightning
@@ -51,7 +51,7 @@ map MAP08 "Asylum"
 levelnum 8
 sky1 dgsky 0
 next map09
-music d_the_da
+music mentalhelp
 
 map MAP09 "Benedict"
 levelnum 9
@@ -101,11 +101,19 @@ next map16
 map MAP16 "Warehouse H-8"
 levelnum 16
 sky1 stars 0.0
-music testtube
+music fp
 next map17
 
 map MAP17 "Deadsville Haunt"
 levelnum 17
 sky1 sky1 0.0
-music d_brdm
+music n64t2ros
+next map18
+
+map map18 "Silent Corridors"
+levelnum 18
+sky1 ASHFLOOR 0.0
+music d_sh
+evenlighting
+fade "01 01 01"
 next map01
